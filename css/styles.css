@@ -23,3 +23,8 @@
   position: relative;
   top: 20px;
 }
+
+#skills li:hover {
+  color: white;
+  background-color: black;
+}
